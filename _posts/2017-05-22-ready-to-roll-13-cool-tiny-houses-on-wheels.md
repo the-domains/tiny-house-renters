@@ -17,8 +17,8 @@ app_links: []
 isBasedOnUrl: >-
   http://www.hgtv.com/remodel/interior-remodel/cool-tiny-houses-on-wheels-pictures
 title: 'Ready to Roll: 13 Cool Tiny Houses on Wheels'
-datePublished: '2017-05-28T17:53:21.876Z'
-dateModified: '2017-05-28T17:53:19.296Z'
+datePublished: '2017-05-22T00:19:51.386Z'
+dateModified: '2017-05-22T00:19:50.957Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-05-22-ready-to-roll-13-cool-tiny-houses-on-wheels.md
