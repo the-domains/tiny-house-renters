@@ -47,14 +47,14 @@ app_links: []
 isBasedOnUrl: >-
   http://inhabitat.com/envirohavens-super-green-geodesic-homes-can-be-built-in-just-a-few-days/
 title: Envirohaven's super green geodesic homes can be built in just a few days
-datePublished: '2017-05-28T17:53:21.873Z'
-dateModified: '2017-05-28T17:53:19.296Z'
+datePublished: '2017-05-28T17:47:48.055Z'
+dateModified: '2017-05-28T17:46:54.786Z'
+datePublishedOriginal: '2017-05-28T17:47:48.055Z'
 via: {}
 inFeed: true
+starred: false
 sourcePath: >-
   _posts/2017-05-28-envirohavens-super-green-geodesic-homes-can-be-built-in-jus.md
-starred: false
-datePublishedOriginal: '2017-05-28T17:47:48.055Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
