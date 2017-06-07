@@ -16,8 +16,8 @@ app_links: []
 isBasedOnUrl: >-
   http://www.hgtv.com/shows/tiny-house-big-living/15-lessons-from-tiny-house-living-pictures
 title: 15 Best-Life Secrets Tiny House Dwellers Know
-datePublished: '2017-05-28T17:53:21.876Z'
-dateModified: '2017-05-28T17:53:19.296Z'
+datePublished: '2017-05-22T00:31:36.300Z'
+dateModified: '2017-05-22T00:31:36.175Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-05-21-15-best-life-secrets-tiny-house-dwellers-know.md
